@@ -1,0 +1,29 @@
+# Node modules
+backend/node_modules/
+frontend/node_modules/
+
+# Build artifacts
+backend/build/
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Uploads
+backend/uploads/
+
+# Truffle config
+backend/truffle-config.js
+
+# Log files
+*.log
+backend/logs/
+
+# Temporary files
+.DS_Store
+
+# Coverage and test results
+coverage/
+
+
+backend/config/dbConfig.js
